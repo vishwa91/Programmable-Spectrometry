@@ -5,3 +5,8 @@
 
 *.jpg
 *.png
+
+*.pkl
+
+data/
+models/
